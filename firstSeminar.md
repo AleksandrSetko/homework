@@ -108,3 +108,5 @@
 5. После чего при помощи команды git push отправить изменения на свой удаленный репозиторий, где появится возможность pull request.
 
 ## Changes from local repository
+
+## Changes from remote repository
